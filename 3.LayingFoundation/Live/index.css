@@ -1,0 +1,22 @@
+#heading{
+    color: red;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    height: 5rem;
+    background-color: beige;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#search input{
+    height: 30px;
+    width: 250px;
+}
