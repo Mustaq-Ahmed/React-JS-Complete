@@ -1,1 +1,1 @@
-Complete React JS from Namaste React Series By Akshay Saini
+Complete React JS course from Namaste React Series By Akshay Saini
